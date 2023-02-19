@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 /**
- * Main - A program that prints a line with puts function
+ * Main - puts
+ *
+ * Puts - Prints a line.
+ *
  * Return: 0 (Success)
  */
 
